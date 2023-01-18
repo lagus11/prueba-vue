@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>Esto es el inicio</h1>
+    <h1>Tercera pagina xd</h1>
     <p>
       Prueba xd
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
