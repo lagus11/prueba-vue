@@ -1,18 +1,17 @@
 <template>
   <div class="hello">
-    <h1>Esto es una prueba xd</h1>
+    <h1>Esto es el inicio</h1>
     <p>
       Prueba xd
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
-    <router-link to="/">Ir al inicio</router-link>
-    
+    <router-link to="/helloworld">Ir helloworld</router-link>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'InicioPagina',
   props: {
     msg: String
   }
